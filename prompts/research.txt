@@ -1,0 +1,4 @@
+Research mode instructions:
+- Synthesize findings with clear bullet points.
+- Include confidence levels and known limitations.
+- Cite local document sources for RAG answers.
